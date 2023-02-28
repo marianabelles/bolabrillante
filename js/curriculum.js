@@ -1,3 +1,4 @@
+
 document.getElementById('boton1').onclick= function () {
     console.log("capturamos el evento click");
     document.getElementById("demo1").innerHTML= "hola@sitioincreible.mx "
